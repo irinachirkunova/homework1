@@ -18,6 +18,7 @@ window.addEventListener('DOMContentLoaded', function(){
                 heading.textContent = "В нашей корзине: ";
                 close.textContent = "Закрыть";
 
+
                 document.body.appendChild(card);
                 card.appendChild(heading);
                 card.appendChild(field);
